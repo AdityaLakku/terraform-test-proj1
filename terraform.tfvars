@@ -1,0 +1,8 @@
+my_aws_region = "us-east-1"
+my_access_key = "my_access_key"
+my_secret_key = "my_secret_key"
+my_domain_name = "itaditya.com"
+my_web_sub_domain_name = "web"
+my_mail_sub_domain_name = "mail"
+my_local_aws_private_key_path = "C:/Users/Aditya/Downloads/test-key.pem"
+my_key_name = "test-key"

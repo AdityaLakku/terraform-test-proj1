@@ -1,4 +1,4 @@
-variable "aws_region" {
+variable "my_region" {
   type        = string
   description = "This variable is used to specify region"
 }
